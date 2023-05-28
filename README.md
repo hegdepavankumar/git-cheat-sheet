@@ -8,7 +8,7 @@
 
 ## Document_Cheat_Sheet
 
-![Download_Document]([git-cheat-sheet-education.pdf](https://github.com/antonkomarev/github-profile-views-counter/files/11584040/git-cheat-sheet-education.pdf))
+![Download_Document]([git-cheat-sheet-education.pdf](https://github.com/hegdepavankumar/git-cheat-sheet/blob/main/git-cheat-sheet-education.pdf))
 
 
 A cheat sheet for uncommon Git commands
