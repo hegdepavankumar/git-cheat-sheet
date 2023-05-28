@@ -6,6 +6,10 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/Git-Cheat-Sheet?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/Git-Cheat-Sheet.svg?cache=remove)
 
+## Document_Cheat_Sheet
+
+![Download_Document]([git-cheat-sheet-education.pdf](https://github.com/antonkomarev/github-profile-views-counter/files/11584040/git-cheat-sheet-education.pdf))
+
 
 A cheat sheet for uncommon Git commands
 
