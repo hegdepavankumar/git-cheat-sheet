@@ -1,9 +1,9 @@
 # Git-Cheat-Sheet
 
 
-![GitHub](https://img.shields.io/github/license/hegdepavankumar/Git-Cheat-Sheet?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/Git-Cheat-Sheet?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/Git-Cheat-Sheet?style=flat)
+![GitHub](https://img.shields.io/github/license/imhegde/Git-Cheat-Sheet?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/imhegde/Git-Cheat-Sheet?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/imhegde/Git-Cheat-Sheet?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/Git-Cheat-Sheet.svg?cache=remove)
 
 ## Document_Cheat_Sheet
@@ -137,6 +137,5 @@ A cheat sheet for uncommon Git commands
   
  ## Creators [🔝](#welcome-badges-4-readmemd-profile)
 
-It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/hegdepavankumar/Badges4-README.md-Profile/graphs/contributors). including [Authors](https://github.com/hegdepavankumar) & [Collaborator](https://github.com/hegdepavankumar). 
 
-| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
+| [<img src="https://github.com/imhegde?size=115" width="115"><br><sub>@imhegde</sub>](https://github.com/imhegde) |
